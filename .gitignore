@@ -1,0 +1,8 @@
+build/
+dist/
+old/
+testing/
+uploadgit.bat
+build.bat
+update-version.py
+*.egg-info/
